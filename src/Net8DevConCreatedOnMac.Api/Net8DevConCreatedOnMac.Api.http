@@ -1,0 +1,6 @@
+@Net8DevConCreatedOnMac.Api_HostAddress = http://localhost:5291
+
+GET {{Net8DevConCreatedOnMac.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
